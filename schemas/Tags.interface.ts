@@ -1,3 +1,4 @@
 export default interface TagsInterface {
-  tag: string;
+  tag_key: string;
+  tag_value: string;
 }
