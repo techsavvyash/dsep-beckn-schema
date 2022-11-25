@@ -1,3 +1,1 @@
-export default interface DomainInterface {
-  domain: string;
-}
+export type DomainSchema = string;
