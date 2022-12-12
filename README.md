@@ -86,7 +86,7 @@
 
  The relationship between these entities follows the following structure:
 
-!(Item types and their relationships)[https://github.com/techsavvyash/dsep-beckn-schema/blob/main/assets/Items_Relationship_Tree.png]
+![Item types and their relationships](https://github.com/techsavvyash/dsep-beckn-schema/blob/main/assets/Items_Relationship_Tree.png)
 
 ## Links
 
